@@ -15,3 +15,4 @@ utility.
 The original Squared_blue is attributed to `endel (endel@tlen.pl)` and carries
 a CC-By-SA 3.0 license, which Squared_red preserves.
 
+![Squared_red screenshot](http://i.imgur.com/wjOqbh6.png)
